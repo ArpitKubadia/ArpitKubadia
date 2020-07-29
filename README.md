@@ -42,10 +42,10 @@
 ---
 
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArpitKubadia&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArpitKubadia&show_icons=true&count_private=true" />
 </a>
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKubadia&show_icons=true&hide_border=true&count_private=true&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKubadia&show_icons=true&count_private=true&layout=compact" />
 </a>
 
 [website]: https://satsure.co/
