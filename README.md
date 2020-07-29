@@ -40,23 +40,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<!-- <a href="#"> -->
+ <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArpitKubadia&show_icons=true&count_private=true" />
-<!-- </a> -->
-<!-- <a href="#"> -->
+</a>
+<a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKubadia&show_icons=true&count_private=true" />
-<!-- </a> -->
+</a>
 
-<br />
-<br />
----
-
-<!-- <a href="#"> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKubadia&repo=RVDP-Programs" />
-<!-- </a> -->
-<!-- <a href="#"> -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKubadia&repo=Ebook-Project" />
-<!-- </a> -->
 
 [website]: https://satsure.co/
 [twitter]: https://twitter.com/aksquaretech
