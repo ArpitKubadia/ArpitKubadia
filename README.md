@@ -41,8 +41,12 @@
 
 ---
 
-<img align="left" alt="ArpitKubadia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArpitKubadia&show_icons=true&hide_border=true&count_private=true" />
-<img align="right" alt="ArpitKubadia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKubadia&show_icons=true&hide_border=true&count_private=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArpitKubadia&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKubadia&show_icons=true&hide_border=true&count_private=true" />
+</a>
 
 [website]: https://satsure.co/
 [twitter]: https://twitter.com/aksquaretech
