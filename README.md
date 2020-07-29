@@ -41,10 +41,10 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArpitKubadia&show_icons=true&hide_border=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKubadia&show_icons=true&hide_border=true&count_private=true&layout=compact" />
 </a>
 
