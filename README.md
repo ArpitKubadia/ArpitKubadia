@@ -40,8 +40,7 @@
 ---
 
 <img align="left" alt="ArpitKubadia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArpitKubadia&show_icons=true&hide_border=true&count_private=true" />
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKubadia)(https://github.com/anuraghazra/github-readme-stats)
-
+<img align="left" alt="ArpitKubadia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKubadia&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://satsure.co/
 [twitter]: https://twitter.com/aksquaretech
