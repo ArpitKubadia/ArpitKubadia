@@ -51,7 +51,6 @@
 
 ---
 
-### Repositories
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKubadia&repo=RVDP-Programs" />
 </a>
