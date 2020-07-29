@@ -35,6 +35,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating search for websites having Bug Bounties](https://medium.com/@arpitkubadia/automating-search-for-websites-having-bug-bounties-757a9fe10e97?source=rss-f78e1b5e41a0------2)
+- [Are AdBlocks bad for business?](https://medium.com/@arpitkubadia/are-adblocks-bad-for-business-293e87d0e21f?source=rss-f78e1b5e41a0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
