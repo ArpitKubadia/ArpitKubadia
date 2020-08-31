@@ -35,6 +35,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting access to internal source code of multiple organizations](https://medium.com/@arpitkubadia/getting-access-to-internal-source-code-of-multiple-organizations-d4c8a20ceed1?source=rss-f78e1b5e41a0------2)
 - [Automating search for websites having Bug Bounties](https://medium.com/@arpitkubadia/automating-search-for-websites-having-bug-bounties-757a9fe10e97?source=rss-f78e1b5e41a0------2)
 - [Are AdBlocks bad for business?](https://medium.com/@arpitkubadia/are-adblocks-bad-for-business-293e87d0e21f?source=rss-f78e1b5e41a0------2)
 <!-- BLOG-POST-LIST:END -->
