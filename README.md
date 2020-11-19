@@ -1,7 +1,7 @@
 ## Hi there, I'm Arpit Kubadia - aka [aksquare][twitter] 👋
 
 ### I'm a Developer, Hacker and a Space Geek!
-- I’m currently working at [SatSure][website] as a Junior Product Engineer!
+- I’m currently working at [SatSure][website] as a Junior Product Manager!
 - I’m also learning Ethical Hacking and Pentesting 
 - Fun fact: I love all things space!
 
