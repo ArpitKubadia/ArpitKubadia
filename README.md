@@ -35,9 +35,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting access to internal source code of multiple organizations](https://medium.com/@arpitkubadia/getting-access-to-internal-source-code-of-multiple-organizations-d4c8a20ceed1?source=rss-f78e1b5e41a0------2)
-- [Automating search for websites having Bug Bounties](https://medium.com/@arpitkubadia/automating-search-for-websites-having-bug-bounties-757a9fe10e97?source=rss-f78e1b5e41a0------2)
-- [Are AdBlocks bad for business?](https://medium.com/@arpitkubadia/are-adblocks-bad-for-business-293e87d0e21f?source=rss-f78e1b5e41a0------2)
+- [The goldmine that are Javascript files for bug bounties](https://arpitkubadia.medium.com/the-goldmine-that-are-javascript-files-for-bug-bounties-a44f415f771e?source=rss-f78e1b5e41a0------2)
+- [Getting access to internal source code of multiple organizations](https://arpitkubadia.medium.com/getting-access-to-internal-source-code-of-multiple-organizations-d4c8a20ceed1?source=rss-f78e1b5e41a0------2)
+- [Automating search for websites having Bug Bounties](https://arpitkubadia.medium.com/automating-search-for-websites-having-bug-bounties-757a9fe10e97?source=rss-f78e1b5e41a0------2)
+- [Are AdBlocks bad for business?](https://arpitkubadia.medium.com/are-adblocks-bad-for-business-293e87d0e21f?source=rss-f78e1b5e41a0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
